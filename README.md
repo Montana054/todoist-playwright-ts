@@ -30,4 +30,4 @@ src/
 └── data/           # Test data storage
 
 Author
-Anatolii Zakharov QA Engineer with 2 years of experience in manual and API testing, expanding skills to test automation.
+Anatolii Zakharov QA Engineer experience in manual and API testing, expanding skills to test automation.
