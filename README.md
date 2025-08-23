@@ -1,7 +1,7 @@
 # Playwright Automation Portfolio
 
 ##  Purpose
-Demonstration of basic automation skills for Junior QA Engineer position with 2 years of manual testing experience.
+Demonstration of basic automation skills for QA Engineer position.
 
 ##  Test Cases Covered
 - TC-001: Add task with Today date
