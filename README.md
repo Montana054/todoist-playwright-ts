@@ -22,7 +22,7 @@ Demonstration of basic automation skills for Junior QA Engineer position with 2 
 3. Run specific test: npx playwright test -g "TC-002"
 4. Generate Allure report: npm run report
 
-Project Structure
+## Project Structure
 src/
 ├── pages/          # Page Object classes
 ├── tests/          # Test specifications  
