@@ -1,5 +1,6 @@
 import { expect, Page } from '@playwright/test';
 import { BasePage } from './base.page';
+import { Logger } from '../utils/logger';
 
 export class LoginPage extends BasePage {
   readonly emailInput = 'input[placeholder="Enter your email..."]';
