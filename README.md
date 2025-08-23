@@ -16,10 +16,10 @@ Demonstration of basic automation skills for Junior QA Engineer position with 2 
 - **Custom Logger** - Detailed execution tracking
 
 ##  Quick Start
+
 1. Install dependencies:
 ```bash
 npm install
-
 2. Run all tests: npx playwright test --workers=1
 3. Run specific test: npx playwright test -g "TC-002"
 4. Generate Allure report: npm run report
